@@ -1,0 +1,2 @@
+# androidtech
+android hardware schematics
